@@ -9,7 +9,7 @@ export default function Navbar() {
         {/* Logo Text */}
         <div className="text-center sm:text-left mb-7 sm:mb-0">
           <p className="text-lg sm:text-xl font-semibold pl-8">
-            Khan's
+            Khan,s
             <span className="ml-2 text-red-500">Restaurant</span>
           </p>
         </div>

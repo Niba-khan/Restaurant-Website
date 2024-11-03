@@ -11,7 +11,7 @@ export default function Footer() {
                         <h3 className="text-lg font-bold mb-2 text-red-500">Contact Us</h3>
                         <p>Phone: +92-3445-344</p>
                         <p>Email: <a href="mailto:kinzaniba@gmail.com" className="text-blue-400">kinzaniba@gmail.com</a></p>
-                        <p>Address: Khan's Restaurant, Karachi, Pakistan</p>
+                        <p>Address: Khan,s Restaurant, Karachi, Pakistan</p>
                     </div>
 
                     {/* Social Media Links */}
@@ -41,7 +41,7 @@ export default function Footer() {
 
                 {/* Copyright Notice */}
                 <div className="mt-10 text-center">
-                    <p className="text-sm">&copy; {new Date().getFullYear()} Khan's Restaurant. All rights reserved.</p>
+                    <p className="text-sm">@Khan,s Restaurant. All rights reserved.</p>
                 </div>
             </div>
         </footer>

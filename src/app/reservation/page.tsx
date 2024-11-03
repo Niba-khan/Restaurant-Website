@@ -12,12 +12,12 @@ export default function Reservation() {
                         DO YOU HAVE ANY DINNER PLAN TODAY? RESERVE YOUR TABLE
                     </h1>
                     <p className="text-lg mt-3 text-white text-opacity-70">
-                        "Reserve your table today for an unforgettable dining experience!
-                        Enjoy exquisite dishes crafted by our head chef in a warm and inviting atmosphere, perfect for any occasion."
+                        Reserve your table today for an unforgettable dining experience!
+                        Enjoy exquisite dishes crafted by our head chef in a warm and inviting atmosphere, perfect for any occasion.
                     </p>
 
                     <div className="flex items-center mt-4">
-                        <RiPhoneLine className='w-[2.5rem] h-[2.5rem] text-red-800' />
+                        <RiPhoneLine color="red" size={40} />
                         <div className="ml-4">
                             <h1 className="text-lg text-white">Quick Order</h1>
                             <h1 className="text-sm text-white">+92-3445-344</h1>

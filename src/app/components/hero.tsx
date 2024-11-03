@@ -7,14 +7,14 @@ export default function Hero() {
       {/* Heading and Paragraph */}
       <div className="flex flex-col justify-center gap-3 text-center md:text-left pt-24 pb-10">
         <h1 className="text-3xl font-black">
-          Welcome to <span className="text-red-500">Khan's Restaurant</span> – Where Flavor Meets Elegance
+          Welcome to <span className="text-red-500">Khan,s Restaurant</span>Where Flavor Meets Elegance
         </h1>
         <p className="font-semibold text-2xl">
-          At <span className="text-red-500">Khan's Restaurant</span>, we take pride in offering a unique dining experience
+          At <span className="text-red-500">Khan,s Restaurant</span>,we take pride in offering a unique dining experience
           that tantalizes your taste buds and delights your senses. Our menu is crafted
           with care, combining the finest ingredients with creativity and passion.
-          Whether you’re craving traditional dishes with a modern twist or exploring
-          new culinary horizons, <span className="text-red-500">Khan's Restaurant</span> has something for everyone.
+          Whether you,re craving traditional dishes with a modern twist or exploring
+          new culinary horizons, <span className="text-red-500">Khan,s Restaurant</span> has something for everyone.
         </p>
 
         <div className="flex space-x-4">
