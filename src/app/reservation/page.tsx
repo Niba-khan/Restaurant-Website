@@ -2,7 +2,7 @@ import { RiPhoneLine } from "react-icons/ri";
 
 export default function Reservation() {
     return (
-        <div className="pt-20 bg-center bg-cover relative mt-8 pb-20 mb-12 bg-[url({'/images/contact.avif'})]">
+        <div className="pt-20 bg-center bg-cover relative mt-8 pb-20 mb-12 bg-[url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGavHhfp3tKane3czXXWXcasOo4ivY-JFAuw&s')]">
             <div className="absolute w-full h-full bg-[#000000a6] top-0 left-0"></div>
             <div className="relative z-20 mx-auto grid lg:grid-cols-2 items-center gap-12 w-4/5">
                 
