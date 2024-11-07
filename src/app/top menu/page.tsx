@@ -14,7 +14,7 @@ export default function TopMenu() {
         
         {/* Top Menu 1 */}
         <div className='bg-red-800/55 p-5 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl duration-300'>
-          <Image src='/images/food1.webp' alt='Chicken Biryani' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" priority />
+          <Image src={'/images/food1.webp'} alt='Chicken Biryani' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" priority />
           <div className="flex items-center justify-center space-x-1 mt-2">
             <BsStarFill color='yellow' />
             <BsStarFill color='yellow' />
@@ -29,7 +29,7 @@ export default function TopMenu() {
 
         {/* Top Menu 2 */}
         <div className='bg-red-800/55 p-5 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl duration-300'>
-          <Image src='/images/food2.gif' alt='Burger Meal' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
+          <Image src={'/images/food2.gif'} alt='Burger Meal' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
           <div className="flex items-center justify-center space-x-1 mt-2">
           <BsStarFill color='yellow' />
             <BsStarFill color='yellow' />
@@ -44,7 +44,7 @@ export default function TopMenu() {
 
         {/* Top Menu 3 */}
         <div className='bg-red-800/55 p-5 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl duration-300'>
-          <Image src='/images/food3.webp' alt='Pizza' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
+          <Image src={'/images/food3.webp'} alt='Pizza' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
           <div className="flex items-center justify-center space-x-1 mt-2">
           <BsStarFill color='yellow'/>
             <BsStarFill color='yellow' />
@@ -59,7 +59,7 @@ export default function TopMenu() {
 
         {/* Top Menu 4 */}
         <div className='bg-red-800/55 p-5 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl duration-300'>
-          <Image src='/images/food4.webp' alt='Dhaga Kabab' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
+          <Image src={'/images/food4.webp'} alt='Dhaga Kabab' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
           <div className="flex items-center justify-center space-x-1 mt-2">
           <BsStarFill color='yellow' />
             <BsStarFill color='yellow' />
@@ -74,7 +74,7 @@ export default function TopMenu() {
 
         {/* Top Menu 5 */}
         <div className='bg-red-800/55 p-5 rounded-lg shadow-lg transition-transform transform hover:scale-105 hover:shadow-2xl duration-300'>
-          <Image src='/images/food5.gif' alt='Chicken Tikka' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
+          <Image src={'/images/food5.gif'} alt='Chicken Tikka' width={300} height={144} className="rounded-t-lg h-36 w-full object-cover" />
           <div className="flex items-center justify-center space-x-1 mt-2">
             <BsStarFill color='yellow'/>
             <BsStarFill color='yellow' />

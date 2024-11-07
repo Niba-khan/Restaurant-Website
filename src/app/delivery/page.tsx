@@ -8,7 +8,7 @@ export default function Delivery() {
         <div className="pt-32 pb-12">
             <div className="w-4/5 mx-auto grid items-center grid-cols-1 lg:grid-cols-2 gap-9">
                 <div className='flex justify-center'>
-                    <Image src="/images/delivery.png" alt="Delivery illustration" width={550} height={550} />
+                    <Image src={"/images/delivery.png"} alt="Delivery illustration" width={550} height={550} />
                 </div>
 
                 <div>

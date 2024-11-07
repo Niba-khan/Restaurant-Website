@@ -11,7 +11,7 @@ export default function About() {
           
           {/* Kabuli Pulao Image */}
           <div className="rounded-t-lg border-4 border-black/45 lg:mr-10 w-full lg:w-1/2">
-            <Image src="/images/aboutimg.webp" alt="Kabuli Pulao" layout="responsive" width={500} height={300} className="rounded-lg object-cover" />
+            <Image src={"/images/aboutimg.webp"} alt="Kabuli Pulao" layout="responsive" width={500} height={300} className="rounded-lg object-cover" />
           </div>
 
           {/* About us Section next to the image */}

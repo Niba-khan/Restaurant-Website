@@ -2,8 +2,8 @@ import React from 'react';
 import { BsStarFill, BsStarHalf } from "react-icons/bs";
 import Image from 'next/image';
 
-const menuItems = [
-  { Image: '/images/combo1.avif', price: '$25.12', title: 'Deal-1', rating: 5 },
+const menuItems = 
+[{ Image: "/images/combo1.avif", price: '$25.12', title: 'Deal-1', rating: 5 },
   { Image: '/images/combo2.jpg', price: '$30.23', title: 'Deal-2', rating: 4.5 },
   { Image: '/images/combo3.jfif', price: '$55.12', title: 'Deal-3', rating: 5 },
   { Image: '/images/combo4.jfif', price: '$40.23', title: 'Deal-4', rating: 4.5 },
